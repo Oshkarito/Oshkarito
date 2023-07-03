@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Завершил курсы аналитик данных Яндекс Практикума!
-- 📫 Как со мной связаться: oshkarito@gmail.com
+- 📫 Как со мной связаться: ![](https://www.flaticon.com/ru/free-icon/gmail_732200)
