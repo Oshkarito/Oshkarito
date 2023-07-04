@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🌍  Живу я в Калининграде.✨✨
+* 🌍  Я живу в Калининграде.✨✨
 * 🌱 Завершил курсы аналитик данных Яндекс Практикума!
 * ✉️  Связаться со мной можно: [oshkarito@gmail.com](mailto:oshkarito@gmail.com)
 * 🧠  Активно изучаю SQL, Python и все что сопутсвует анализу данных
