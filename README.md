@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 * 🧠  Активно изучаю SQL, Python и все что сопутсвует анализу данных
 * 🤝  Открыт для сотруднечества в этих и смежных сферах
 * ⚡  Всем мира добра и хорошего настроения✨✨✨
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
